@@ -1,3 +1,16 @@
 body {
     background: rgb(104,192,147);
   }
+  nav{
+    display: inline-flex;
+    width: 100%;
+    justify-content: space-between;
+    position: fixed;
+    background-color: white;
+    top: 0;
+    left: 0;
+}
+nav h3{
+    font-weight: 500;
+    color: #0863A6;
+}
