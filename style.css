@@ -12,7 +12,7 @@ body {
 }
 nav h3{
     font-weight: 500;
-    color: #0863A6;
+    color: rgb(104,192,147);
 }
 .header{
     display: flex;
@@ -28,23 +28,21 @@ nav h3{
 .right{
     margin-right: 100px;
     padding-top: 20px;
-    color: #0863A6;
+    color: rgb(104,192,147);
 }
-
-
-/* .pic{
-    height: 100%;
-    width: 300px;
-} */
 .portfolio{
     margin-top: 120px;
     display: flex;
     height: 100%;
 }
+.portfolio img {
+    width: 600px;
+    height: 650px;
+    padding-right: 50px;
+}
 .info{
     width: 50%;
-    padding: 0px;
-    border: 1px solid greenyellow;
+    padding: 100px;
 }
 .info h1{
     padding: 0px 10px;
@@ -70,7 +68,7 @@ nav h3{
 }
 .button:hover{
     background-color: #D9D9D9;
-    color: #0863A6;
+    color: rgb(104,192,147);
 }
 
 footer{
@@ -83,7 +81,7 @@ footer{
 .links li{
     text-decoration: none;
     padding: 8px;
-    color: #0863A6;
+    color: rgb(104,192,147);
 }
 .contact img{
     width: 30px;
@@ -96,33 +94,33 @@ footer{
     padding: 15px;
 }
 #ig{
-    color: rgb(193,62,107);
+    color: rgb(104,192,147);
     padding: 15px;
 }
 li{
     list-style: none;
 }
 #phone{
-    color: #0863A6;
+    color: rgb(104,192,147);
     padding: 15px;
 }
 #mail{
-    color: #0863A6;
+    color: rgb(104,192,147);
     padding: 15px;
 }
 #pin{
-    color: #0863A6;
+    color: rgb(104,192,147);
     padding: 15px;
 }
 .cprt{
     display: block;
     font-weight: lighter;
     margin-left: 40%;
-    color: #0863A6;
+    color: rgb(104,192,147);
 }
 a{
     text-decoration: none;
-    color: #0863A6;
+    color: rgb(104,192,147);
 }
 iframe{
    width: 400;
